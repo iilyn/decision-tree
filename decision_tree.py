@@ -5,8 +5,6 @@ Created on Fri Oct 17 15:54:10 2022
 @author: neural.net_
 """
 
-import torch
-import torch.nn as nn
 import numpy as np
 from sklearn.datasets import load_wine
 from sklearn.model_selection import train_test_split
